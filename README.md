@@ -1,5 +1,5 @@
 # D2L Study and Implementation
-This repository contains my study notes and implementations from various chapters of the deep learning book. Each chapter includes detailed notes, code implementations, and experiments.
+This repository contains my study notes and implementations from various chapters of the d2l deep learning book. Each chapter includes detailed notes, code implementations, and my solutions for exercises.
 
 ## D2L.ai: Interactive Deep Learning Book with Multi-Framework Code, Math, and Discussions
 

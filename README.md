@@ -13,13 +13,13 @@ This repository contains my study notes and implementations from various chapter
 [Book website](https://d2l.ai/) | [STAT 157 Course at UC Berkeley](http://courses.d2l.ai/berkeley-stat-157/index.html)
 
 ## My notes and solutions for exercises
-- Chapter 2: Preliminaries [link](https://docs.google.com/document/d/1sfllfKdj0XYNL1Js62bJXMs77_9QdlJYQZ79LlsuOVQ/edit?usp=sharing)
-- Chapter 6: Builders’ Guide [link](#)
-- Chapter 9: Recurrent Neural Networks [link](#)
-- Chapter 10: Modern Recurrent Neural Networks [link](#)
-- Chapter 11: Attention Mechanisms and Transformers [link](#)
-- Chapter 12: Optimization Algorithms [link](#)
-- Chapter 13: Computational Performance [link](#)
-- Chapter 15: Natural Language Processing: Pretraining [link](#)
-- Chapter 16: Natural Language Processing: Applications [link](#)
-- Chapter 19: Hyperparameter Optimization [link](#)
+- [Chapter 2: Preliminaries](https://docs.google.com/document/d/1sfllfKdj0XYNL1Js62bJXMs77_9QdlJYQZ79LlsuOVQ/edit?usp=sharing)
+- Chapter 6: Builders’ Guide
+- Chapter 9: Recurrent Neural Networks 
+- Chapter 10: Modern Recurrent Neural Networks 
+- Chapter 11: Attention Mechanisms and Transformers
+- Chapter 12: Optimization Algorithms
+- Chapter 13: Computational Performance 
+- Chapter 15: Natural Language Processing: Pretraining
+- Chapter 16: Natural Language Processing: Applications
+- Chapter 19: Hyperparameter Optimization

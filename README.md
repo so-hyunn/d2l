@@ -3,8 +3,6 @@ This repository contains my study notes and implementations from various chapter
 
 ## D2L.ai: Interactive Deep Learning Book with Multi-Framework Code, Math, and Discussions
 
-[![Continuous Integration](https://github.com/d2l-ai/d2l-en/actions/workflows/ci.yml/badge.svg)](https://github.com/d2l-ai/d2l-en/actions/workflows/ci.yml)
-
 [Book website](https://d2l.ai/) | [STAT 157 Course at UC Berkeley](http://courses.d2l.ai/berkeley-stat-157/index.html)
 
 ## My notes and solutions for exercises

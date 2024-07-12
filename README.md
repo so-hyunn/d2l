@@ -7,6 +7,7 @@ This repository contains my study notes and implementations from various chapter
 
 ## My notes and solutions for exercises
 | Topic | Report | Code |
+|------|---|---|
 | Chapter 2: Preliminaries | [Report](https://docs.google.com/document/d/1sfllfKdj0XYNL1Js62bJXMs77_9QdlJYQZ79LlsuOVQ/edit?usp=sharing) | [Code](https://github.com/so-hyunn/d2l/blob/master/MyCode/Chapter-2-Preliminaries.ipynb) |  
 - Chapter 6: Builders’ Guide [Report](https://docs.google.com/document/d/12A-ACYe1Phnm4SB601Ykhm3zycRtigaDBEFzH1eMZoU/edit?usp=sharing) [Code](https://github.com/so-hyunn/d2l/blob/master/MyCode/Chapter-6-Builders%E2%80%99%20Guide.ipynb)
 - Chapter 9: Recurrent Neural Networks [Report](https://docs.google.com/document/d/1uT6UscAMv2tZQdiNlJ__iX4Z9OJgqJ5nY4u2Q1ZH-vg/edit?usp=sharing) [Code](https://github.com/so-hyunn/d2l/blob/master/MyCode/Chapter-9-Recurrent%20Neural%20Networks.ipynb)
